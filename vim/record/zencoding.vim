@@ -1,0 +1,1 @@
+{"installer_type":"auto","generated_by":"Vimana-2010.09303","files":[{"checksum":"5783db3782bf363094252298669981e0","file":"/home/ymh/.vim/plugin/zencoding.vim"},{"checksum":"715185c51e56f89cbad1bde6e0310540","file":"/home/ymh/.vim/autoload/zencoding.vim"}],"version":0.2,"package":"zencoding.vim"}
